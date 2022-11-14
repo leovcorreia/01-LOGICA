@@ -8,7 +8,7 @@ Var
 
 Inicio
 
-    escreva("Qual a quantidade de atletas?")
+    escreva("Qual a quantidade de atletas que serao informados?")
     leia(qtdAtletas)
     
     pesoSoma <- 0
