@@ -12,7 +12,7 @@ Var
 
 Inicio
 
-    escreva("Informe a quantidade de clientes: ")
+    escreva("Informe a quantidade de clientes que serao lidos: ")
     leia(qtdClientes)
     
     //Leitura dos dados
