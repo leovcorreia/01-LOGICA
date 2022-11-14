@@ -12,7 +12,7 @@ int main() {
 
     tam = strlen(palavra) - 1;
     // tam = strlen(palavra);
-    printf("Tamanho da palavra: %d\n", tam);
+    printf("Tamanho da string: %d\n", tam);
 
     invertePalavra[tam] = '\0';
     palavra[tam] = '\0';
