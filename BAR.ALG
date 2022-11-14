@@ -37,7 +37,7 @@ Inicio
     se couvert <> 4 entao
        escreval("Isento de Couvert")
     senao
-       escreval("Couvert = R$ ", couvert:4:2)
+       escreval("Couvert Artistico = R$ ", couvert:4:2)
     fimse
     
     escreval("Ingresso = R$ ", ingresso:4:2)
