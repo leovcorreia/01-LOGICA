@@ -6,7 +6,7 @@ Var
    valor, ingresso, consumo, couvert : real
    
 Inicio
-    escreva("Sexo: ")
+    escreva("Sexo da pessoa: ")
     leia(sexo)
     
     se sexo = "F" entao
