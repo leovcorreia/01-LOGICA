@@ -17,9 +17,9 @@ Inicio
         escreval("Digite os dados da ", i+1, "a pessoa: ")
         escreva("Nome: ")
         leia(nomes[i])
-        escreva("Nota etapa 1: ")
+        escreva("Nota da etapa 1: ")
         leia(nota1[i])
-        escreva("Nota etapa 2: ")
+        escreva("Nota da etapa 2: ")
         leia(nota2[i])
      fimpara
      
