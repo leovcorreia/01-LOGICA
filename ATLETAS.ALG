@@ -18,7 +18,7 @@ Inicio
     somaAltura <- 0
     para i de 0 ate qtdAtletas-1 faca
     
-       escreval("Digite os dados do atleta numero ", i+1, ":")
+       escreval("Digite os dados do atleta numero ", i+1, ": ")
        escreva("Nome: ")
        leia(nome)
        
@@ -66,8 +66,8 @@ Inicio
     escreval
     escreval("RELATÓRIO: ")
     escreval("Peso médio dos atletas: ", pesoMedio:4:2)
-    escreval("Atletas mais alto: ", maisAlto)
+    escreval("Atleta mais alto: ", maisAlto)
     escreval("Porcentagem de homens: ", porcHomens:4:1, " %")
-    escreval("Altura média das mulheres: ", mediaW:4:2)
+    escreval("Altura media das mulheres: ", mediaW:4:2)
 
 Fimalgoritmo
