@@ -52,7 +52,7 @@ Inicio
     imposFinal <- imposBruto - abatimento
     
     escreval()
-    escreval("RELATÓRIO DE IMPOSTO DE RENDA")
+    escreval("RELATÓRIO DE IMPOSTO DE RENDA:")
     escreval()
     escreval("CONSOLIDADE DE RENDA: ")
     escreval("Imposto sobre salário: ", imposSalario2:6:2)
