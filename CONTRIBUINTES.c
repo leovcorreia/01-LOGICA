@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
-// sou foda
-=======
-// teste
->>>>>>> 85fbf80a84de61841c6eca4aa94f89f05e3075e3
-
 double impostoSobreSalario(double quantia) {
 
     double impostoSalario;
@@ -90,7 +84,7 @@ main() {
     impostoSalario = impostoSobreSalario(rendaAnualSalario);
     printf("Imposto sobre salario: %.2lf\n", impostoSalario);
     impostoServico = impostoSobreServicos(rendaAnualServico);
-    printf("Imposto sobre serviÃ§os: %.2lf\n", impostoServico);
+    printf("Imposto sobre serviços: %.2lf\n", impostoServico);
     impostoGC = impostoSobreGC(rendaAnualCapital);
     printf("Imposto sobre ganho de capital: %.2lf\n", impostoGC);
     double impBrutoTot = impostoBrutoTotal(impostoSalario, impostoServico, impostoGC);
