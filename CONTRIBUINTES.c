@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// teste
+
 double impostoSobreSalario(double quantia) {
 
     double impostoSalario;
@@ -84,7 +86,7 @@ main() {
     impostoSalario = impostoSobreSalario(rendaAnualSalario);
     printf("Imposto sobre salario: %.2lf\n", impostoSalario);
     impostoServico = impostoSobreServicos(rendaAnualServico);
-    printf("Imposto sobre serviços: %.2lf\n", impostoServico);
+    printf("Imposto sobre serviÃ§os: %.2lf\n", impostoServico);
     impostoGC = impostoSobreGC(rendaAnualCapital);
     printf("Imposto sobre ganho de capital: %.2lf\n", impostoGC);
     double impBrutoTot = impostoBrutoTotal(impostoSalario, impostoServico, impostoGC);
