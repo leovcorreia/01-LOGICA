@@ -1,11 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
-// sou foda
-=======
-// teste
->>>>>>> 85fbf80a84de61841c6eca4aa94f89f05e3075e3
-
 double impostoSobreSalario(double quantia) {
 
     double impostoSalario;
