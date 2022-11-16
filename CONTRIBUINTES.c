@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// sou foda
+
 double impostoSobreSalario(double quantia) {
 
     double impostoSalario;
